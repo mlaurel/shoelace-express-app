@@ -9,3 +9,19 @@ h1 {
 div {
     margin: 1em;
 }
+
+.drawer-wrapper {
+    display: none;
+}
+.color-wrapper {
+    display: none;
+}
+
+.carousel-wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    max-width: 80vw;
+    margin: 0 auto;
+
+}
